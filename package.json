@@ -1,6 +1,6 @@
 {
-  "name": "cypress-poc",
-  "version": "1.0.0",
+  "name": "cypress-api-testing",
+  "version": "1.0.1",
   "description": "poc with cypress for UI, API automaton",
   "scripts": {
     "test": "cypress run --spec cypress/e2e/*.js"
