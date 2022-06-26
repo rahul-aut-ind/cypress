@@ -1,0 +1,24 @@
+{
+  "name": "cypress-poc",
+  "version": "1.0.0",
+  "description": "poc with cypress for UI, API automaton",
+  "scripts": {
+    "test": "cypress run --spec cypress/e2e/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-aut-ind/cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Rahul Upadhyay",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/rahul-aut-ind/cypress/issues"
+  },
+  "homepage": "https://github.com/rahul-aut-ind/cypress#readme",
+  "dependencies": {
+    "cypress": "^10.2.0"
+  }
+}
